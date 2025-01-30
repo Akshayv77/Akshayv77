@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshay.v
-- 👀 I’m interested in Flutter Development
-- 🌱 I’m currently learning UI/UX Designing
+- 👀 I’m interested in Development and Analytics
+- 🌱 I’m currently practicing on frontend frameworks and business tools .
 - 💞️ I’m looking to collaborate on projects of any technology
 - 📫 How to reach me akshayv.333@gmail.com
 
